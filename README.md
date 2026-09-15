@@ -60,8 +60,10 @@ pip install qiskit scikit-learn matplotlib numpy
 
 🙏 Acknowledgments
 A massive and heartfelt thank you to the organizers and instructors of the Quantum Kernel SVM Workshop.
-The foundational concepts, brilliant insights, and hands-on guidance provided during the class were the primary spark and inspiration
-behind this project. Their dedication to teaching and demystifying Quantum Machine Learning made this advanced pipeline possible!
+The foundational concepts, brilliant insights, and hands-on guidance provided during the class
+were the primary spark and inspiration behind this project.
+Their dedication to teaching and demystifying Quantum Machine Learning made
+this advanced pipeline possible!
 
 📜 License
 Distributed under the MIT License. See LICENSE for more information.
