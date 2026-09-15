@@ -53,13 +53,15 @@ To truly test the geometric expressibility of the quantum kernel, this benchmark
 
 Ensure you have Python 3.10+ installed, then clone the repository and run the setup command:
 
+```bash
 git clone https://github.com/saviochackoxavier-tech/quantum-kernel-svm-benchmark.git
 cd quantum-kernel-svm-benchmark
 pip install qiskit scikit-learn matplotlib numpy
 
-
 🙏 Acknowledgments
-A massive and heartfelt thank you to the organizers and instructors of the Quantum Kernel SVM Workshop. The foundational concepts, brilliant insights, and hands-on guidance provided during the class were the primary spark and inspiration behind this project. Their dedication to teaching and demystifying Quantum Machine Learning made this advanced pipeline possible!
+A massive and heartfelt thank you to the organizers and instructors of the Quantum Kernel SVM Workshop.
+The foundational concepts, brilliant insights, and hands-on guidance provided during the class were the primary spark and inspiration
+behind this project. Their dedication to teaching and demystifying Quantum Machine Learning made this advanced pipeline possible!
 
 📜 License
 Distributed under the MIT License. See LICENSE for more information.
